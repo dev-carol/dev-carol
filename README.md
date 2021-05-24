@@ -6,7 +6,7 @@
 
  
 
-:computer: I'm Front-End Developer Jr!
+:computer: Desenvolvedor Front- End Junior
 
 :house_with_garden: Brasileira
 
@@ -15,7 +15,7 @@ desenvolvimento com foco em frontend nas plataformas Rockseat, Alura e
 Participo de alguns Bootcamps na
 Digital Inovation One. 
 
-:outbox_tray: 2021 Goals: Add more knowledge and have a job opportunity
+:outbox_tray: 2021 Goals: Aderir mais conhecimentos, conseguir um emprego e colaborar em futuros projetos 
  
 
 ----------------------------------------------------------------------------------
