@@ -23,8 +23,10 @@ Digital Inovation One.
 O QUE ESTOU ESTUDANDO  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 - JAVASCRIPT 
+- JQuery
 - HTML 5
 - CSS3
+- Bootstrap
 - SQL SERVER
 - GIT
 
