@@ -24,16 +24,17 @@ O QUE ESTOU ESTUDANDO  <img src=https://github.com/TheDudeThatCode/TheDudeThatCo
 
 - JAVASCRIPT 
 - JQuery
+- ReactJs
 - HTML 5
 - CSS3
 - Bootstrap
+- Materialize
 - SQL SERVER
 - GIT
 
 
 INTERESSES FUTUROS
 
-- REACT
 - ANGULAR
 - NODEJS
 
