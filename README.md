@@ -1,4 +1,5 @@
-# Welcome!
+# Welcome! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
+
 
  
 
@@ -6,37 +7,12 @@
 
  
 
-:computer: Desenvolvedor Front- End Junior
+:books: Aprendendo para ser melhor que ontem e buscando evoluções em cada > ; 
 
-:house_with_garden: Brasileira
 
-:books: Recentemente venho estudando
-desenvolvimento com foco em frontend nas plataformas Rockseat, Alura e
-Participo de alguns Bootcamps na
-Digital Inovation One. 
-
-:outbox_tray: 2021 Goals: Aderir mais conhecimentos, conseguir um emprego e colaborar em futuros projetos 
- 
+:outbox_tray: 2021 Goals: Se tornar fluente em Javascript 
 
 ----------------------------------------------------------------------------------
-
-O QUE ESTOU ESTUDANDO  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-
-- JAVASCRIPT 
-- JQuery
-- ReactJs
-- HTML 5
-- CSS3
-- Bootstrap
-- Materialize
-- SQL SERVER
-- GIT
-
-
-INTERESSES FUTUROS
-
-- ANGULAR
-- NODEJS
 
 
 
