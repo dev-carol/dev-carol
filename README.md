@@ -8,7 +8,7 @@
  Estou em constante aprendizagem, sou aberta por novas ideias em equipe e em outras linguagens, capaz de tomar iniciativas e tenho autogestão em tudo que faço, para garantir a entrega dos projetos de acordo com os objetivos determinados. Amo desenvolver produtos significativos que cause impacto em seu proposto, com abordagens modernas e bom desempenho para a experiência do usuário. </p>
 
 <p align="left">
-  🦄 Linguagens : <strong>Javascript, React e Node</strong>
+  🦄 Tecnologias : <strong>Javascript, Typescript, React e Node</strong>
 </p>
 
 <p align="left">
