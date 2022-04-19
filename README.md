@@ -5,7 +5,7 @@
  
  Meu nome é Carol Santos. Sou uma <strong>Desenvolvedora Junior</strong>.<br>
  Atualmente desenvolvo sistemas web na empresa Open Circle <br><br>
- Estou em constante aprendizagem, sou aberta por novas ideias em equipe e em outras linguagens, capaz de tomar iniciativas e tenho autogestão em tudo que faço, para garantir a entrega dos projetos de acordo com os objetivos determinados. Amo desenvolver produtos significativos que cause impacto em seu proposto, com abordagens modernas e bom desempenho para a experiência do usuário. </p>
+ Amo desenvolver produtos significativos que cause impacto em seu proposto, com abordagens modernas e bom desempenho para a experiência do usuário. </p>
 
 <p align="left">
   🦄 Tecnologias : <strong>Javascript, Typescript, React e Node</strong>
