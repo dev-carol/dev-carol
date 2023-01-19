@@ -2,7 +2,7 @@
 
 ### Hello world, Eu sou a Carol Santos!  
 
-Minha maior motivação por ter me conectado com o mundo dos códigos, é o poder de construir conexões fortes com as pessoas e prestar soluções significativa para suas vidas. Sou desenvolvedora fulStack que atua com softwares voltados para web, usando abordagens modernas e pensando na boa experiência do usuário.
+Minha maior motivação por ter me conectado com o mundo dos códigos, é o poder de construir conexões fortes com as pessoas e prestar soluções significativa para suas vidas. Sou desenvolvedora fullStack que atua com softwares voltados para web, usando abordagens modernas e pensando na boa experiência do usuário.
   
 
 <br/>  
