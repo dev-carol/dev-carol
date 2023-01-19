@@ -1,25 +1,53 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-<p align="left"> 
-  Olá, seja bem-vindo(a)!
- 
- Meu nome é Carol Santos. Sou uma <strong>Desenvolvedora Junior</strong>.<br>
- Atualmente desenvolvo sistemas web na empresa Open Circle <br><br>
- Amo desenvolver produtos significativos que cause impacto em seu proposto, com abordagens modernas e bom desempenho para a experiência do usuário. </p>
-
-<p align="left">
-  🦄 Tecnologias : <strong>Javascript, Typescript, React e Node</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas : <strong>Jira, Dbeaver, Swagger e Docker </strong>
-</p>
-
-<p align="left">
- 
-   - Email: contato.caroline1999@gmail.com
-  - Linkedin: https://www.linkedin.com/in/devcarol/
 
 
+### Hello world, Eu sou a Carol Santos!  
+
+Minha maior motivação por ter me conectado com o mundo dos códigos, é o poder de construir conexões fortes com as pessoas e prestar soluções significativa para suas vidas. Sou desenvolvedora fulStack que atua com softwares voltados para web, usando abordagens modernas e pensando na boa experiência do usuário.
+  
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
+
+### **Skills**  
+  
+
+- JavaScript   
+  
+
+- Typescript  
+  
+
+- Node  
+  
+
+- NestJs  
+  
+
+- React  
+  
+
+- Docker  
+  
+
+- Jest  
 
 
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a0e539ef-d4d6-4078-81fd-23c381da3941/ddyvi7c-629e49b4-55cf-47a6-8d60-1edfe2b4198f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2EwZTUzOWVmLWQ0ZDYtNDA3OC04MWZkLTIzYzM4MWRhMzk0MVwvZGR5dmk3Yy02MjllNDliNC01NWNmLTQ3YTYtOGQ2MC0xZWRmZTJiNDE5OGYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ZGey8SB4L_XGX-nP4OVenu2cyykTctkPq7JKTZLP7OM" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+
+
+##### Email: contato.caroline1999@gmail.com  
+  
+
+##### Linkedin: https://www.linkedin.com/in/devcarol/  
+
+
+----
