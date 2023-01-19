@@ -44,10 +44,11 @@ Minha maior motivação por ter me conectado com o mundo dos códigos, é o pode
 
 
 
+
 ##### Email: contato.caroline1999@gmail.com  
   
 
-##### Linkedin: https://www.linkedin.com/in/devcarol/  
+##### Linkedin: https://www.linkedin.com/in/carolsaantos/
 
 
 ----
