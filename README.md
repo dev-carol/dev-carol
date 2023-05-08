@@ -2,9 +2,7 @@
 
 ### Hello world, Eu sou a Carol Santos!  
 
-Sou desenvolvedora full stack
-
-Estou sempre em busca de novas tecnologias e tendências no mercado para aprimorar minhas habilidades e oferecer soluções eficientes para os projetos que trabalho.
+Bem-vindo ao meu pequeno mundo.
 
 <br/>  
 
