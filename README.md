@@ -50,10 +50,4 @@ Primeiro rascunho do meu site pessoal, desenvolvido com Next.js. Projeto criado 
 
 ## 🤝 Let's Connect
 
-📍 GitHub: [dev-carol](https://github.com/dev-carol)  
-📫 LinkedIn: [carolsaantos](www.linkedin.com/in/carolsaantos) 
-
-Sinta-se à vontade para explorar meus repositórios, contribuir, ou trocar uma ideia sobre desenvolvimento, carreira e tecnologia.  
-Estou sempre aberta a conexões com pessoas que também acreditam em software bem feito e com propósito.  
-
-Thanks for stopping by! ☕
+📫 LinkedIn: [carolsaantos](www.linkedin.com/in/carolsaantos)  
