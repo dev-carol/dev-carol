@@ -19,35 +19,28 @@ Mais do que seguir uma stack específica, me interessa o desenvolvimento como me
 
 ---
 
-## 🛠️ Skills
+## Technical Skills – Key Competencies
 
-**Node.js / NestJS**  
-Tenho experiência em desenvolvimento de APIs Restful, com foco em boas práticas e arquitetura limpa.
-
-**React / TypeScript**  
-Criação de interfaces criativas, interativas, acessíveis e centradas na experiência do usuário.
-
-**AWS**  
-Familiaridade com serviços da AWS como: Lambda, ECS, SNS, SQS, RDS e CloudWatch 
-
-**Soft Skills**  
-Empatia, escuta ativa, comunicação clara, visão de produto e colaboração entre times multidisciplinares.
-
-**Idiomas**  
-Português (nativo) • Inglês (em constante evolução 🌍)
+- **Languages & Frameworks:** `TypeScript`, `JavaScript`, `Node.js`, `NestJS`, `React`, `Next.js`
+- **Databases:** `PostgreSQL`, `MongoDB`
+- **Cloud & DevOps:** `AWS (EC2, S3, RDS)`, `Docker`, `CI/CD`, `GitHub Actions`
+- **Architecture & Patterns:** `Microservices`, `Micro Frontends`, `RESTful APIs`, `Clean Architecture`, 
+- **Testing & Quality:** `Jest`, `Testing Library`, `E2E`, `Code Review`,
+- **Methodologies:** `Agile`, `SCRUM`, `SOLID`, `Clean Code`, `Pair Programming`
+- **Languages:** `Portuguese (native)`, `English (intermediate – ongoing learning)`
 
 ---
 
-## 🚀 Projects
+## Projects
 
 
-### 🔹 [Yamoni ](https://yamoni-devcarols-projects.vercel.app/)
+###  ◦ [Yamoni ](https://yamoni-devcarols-projects.vercel.app/)
 Primeiro rascunho do meu site pessoal, desenvolvido com Next.js. Projeto criado para explorar conceitos da ferramenta como renderização no lado do servidor (SSR), estratégias de roteamento e estruturação de páginas.
 
 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-📫 LinkedIn: [carolsaantos](www.linkedin.com/in/carolsaantos)  
+◦ LinkedIn: [carolsaantos](www.linkedin.com/in/carolsaantos)  
